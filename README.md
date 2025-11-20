@@ -11,8 +11,9 @@ Key features:
 
 
 ## Example dashboards:
-Automated Excel file creation:
+Automated Excel file created:
 ![Example of App Store data](https://github.com/sivx76/App-Store-Data-Engine/blob/main/data_export.png?raw=true)
+
 
 Searchable Dashboard and interactive analytics (premium version):
 ![Example of App Store data](https://github.com/sivx76/App-Store-Data-Engine/blob/main/dashboard_export.png?raw=true)
@@ -43,6 +44,11 @@ Searchable Dashboard and interactive analytics (premium version):
 * User engagement metrics
 * All released app versions, dates and change logs
 
+## Benefits:
+* Learn deeply about your app's stengths and weaknesses, in seconds
+* Observe how it compares with our similar iPhone and Android applications
+* Increases the effectivness of your project planning, by building features requested by your users
+
 
 
 ## To use:
@@ -50,3 +56,19 @@ Searchable Dashboard and interactive analytics (premium version):
 2. Enter the search term in the **search bar**, for which iPhone and Android apps you want to see
 3. Run each cell, including the last one to generate an interactive chart and export the performance metrics as a CSV or Excel file
 
+
+## Created by:
+Benyam Alemu Sood and Jigyasaa Alemu Sood, 2025.
+
+App Store Data Engine is a free and opensource library distributed under the **MIT License**. You may use the source code for free in any of our personal and commercial libraries. 
+
+If you would like to, you may create any articles, tutorials or videos describing any component of this library.
+
+To gain access to preminum features, email benbuildsapps@protonmail.com
+
+
+
+## Collaboration:
+We are in active development. We welcome collaboration.
+
+Feel free to send any pull requests or proposed changes to our codebase. Submit your ideas and code improvements.
